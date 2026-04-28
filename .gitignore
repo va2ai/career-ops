@@ -28,6 +28,7 @@ modes/_profile.md
 
 # Generated
 .resolved-prompt-*
+batch/tmp-render-*.html
 node_modules/
 bun.lock
 
@@ -39,5 +40,6 @@ bun.lock
 # Claude Code local
 .claude/settings.local.json
 .claude/memory/
+.omc/
 career-dashboard
 package-lock.json
